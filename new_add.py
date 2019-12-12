@@ -9,3 +9,4 @@ class new:
 math.addition=new.new_add
 
 print(math.addition(2,4))
+print()
